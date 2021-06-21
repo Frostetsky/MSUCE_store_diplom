@@ -1,4 +1,4 @@
-# MSUCE_store_diplom
+# Hardware Store
 
 - to create schema in MySql use
 
